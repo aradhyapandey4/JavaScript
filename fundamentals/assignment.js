@@ -28,6 +28,5 @@ console.log(language);
 PI = 12 // this will give error
 
 /*
-Tips :
-1. it not sure about the variable use 'const'
+1. if not sure between (let and const) use 'const'
 */
